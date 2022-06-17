@@ -1,0 +1,51 @@
+Test the file one by one by changing the file path at the bottom in the File object.
+best runable file
+in term of target number
+733-100
+76
+1.27 min close can go under min if was in C or better Cpu
+
+413-75
+52 subsets
+2600 ms
+
+245-50
+35 subsets
+152 ms
+
+197-45
+30 subset
+70 ms
+
+155-40
+27 subset
+53 ms 
+
+109-35
+22 subset
+35 ms
+
+118-30
+20 subsets
+21 ms
+
+in term of largest subset amount
+50-95
+12
+1149  ms
+
+35-65
+10
+67 ms
+
+40 - 60 
+14 subsets
+68 ms
+
+40-80
+9 subsets
+239 ms
+
+50-100
+9 subsets
+301 ms
